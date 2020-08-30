@@ -1,0 +1,24 @@
+.justify-space-between {
+    justify-content: space-between;
+}
+.d-flex {
+    display: flex;
+}
+.flex-column {
+    flex-direction: column;
+}
+.align-center {
+    align-items: center;
+}
+.flex-1 {
+    flex: 1;
+}
+.justify-end {
+    justify-content: flex-end;
+}
+.justify-center{
+    justify-content: center;
+}
+span#LogOut {
+    float: right;
+}
